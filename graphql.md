@@ -204,7 +204,7 @@ app.listen(port);
 console.log(`GraphQL Server Running at localhost:${port}`);
 ```
 
-执行node server.js创建服务，打开http://localhost:5000/graphql即可看到graphql交互界面。
+执行node server.js创建服务，打开http://localhost:5000/graphql 即可看到graphql交互界面。
 ```ruby
 node server.js
 ```
